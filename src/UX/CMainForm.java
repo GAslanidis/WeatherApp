@@ -35,7 +35,7 @@ public class CMainForm extends javax.swing.JFrame {
     private void getInfo(String p_sCityName){
     
         // Replace "YOUR_API_KEY" with your actual OpenWeatherMap API key
-        String apiKey = "c24676c7d100f48e26121eeb413097dd";
+        String apiKey = "YOUR_API_KEY";
 
         // The city name that the user searched for
         String sCityName = p_sCityName;
